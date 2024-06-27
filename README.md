@@ -17,8 +17,6 @@ This repository is a collection of various deep learning projects I have worked 
   - **Methods**: Implemented NLP techniques to analyze and recommend items based on textual content.
   - **Results**: Evaluation metrics and effectiveness of the recommendation system.
 
-Each project directory contains a README.md file with more detailed information, including the objective, dataset details (if applicable), methods employed, and the results obtained.
-
 ## Usage
 
 Feel free to explore each project directory to learn more about the individual projects. You can clone this repository to your local machine using:
