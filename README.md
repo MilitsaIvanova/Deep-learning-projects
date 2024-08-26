@@ -17,7 +17,7 @@ This repository is a collection of various deep learning projects I have worked 
   - **Methods**: Implemented NLP techniques to analyze and recommend items based on textual content.
   - **Results**: Created a test method to evaluate the performance and effectiveness of the recommendation system.
     
-- **Project 3: Depression in Retirement: Unraveling the Silent Epidemic through SHARE Data Analysis****
+- **Project 3: Depression in Retirement: Unraveling the Silent Epidemic through SHARE Data Analysis**
   - **Objective**: Examine the prevalence, determinants, and underlying factors of depression among retired individuals in Europe.
   - **Dataset**: Data from the SHARE survey.
   - **Methods**: Build a Neural Network model which can predict whether an individual is depressed or not.
